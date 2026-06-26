@@ -1,4 +1,4 @@
-import Index from "./pages/index";
+import Index from "./pages/Index";
 import NotFound from "./pages/NotFound";
 
 export const routers = [
