@@ -105,7 +105,7 @@ export const Hero = () => {
             beautiful UI/UX — engineered for performance, scale and lasting
             support.
             <span className="mt-2 block text-sm text-foreground/60">
-              Ape team eka oyage business eka digital karanna ridhi.
+              our team of experienced developers and designers are dedicated to providing the best possible solutions for your business.
             </span>
           </p>
 
